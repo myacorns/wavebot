@@ -165,7 +165,7 @@ module.exports = async (client, message) => {
             message.member.roles.remove(client.config.mutedRole, 'Unmuted after 10 mintues for Mention Spam');
           } catch (error) {
             // Couldn't unmute, oh well
-            console.error('Failed to unmute after Anit Mention Spam');
+            console.error('Failed to unmute after Anti Mention Spam');
             console.error(error);
           }
         }, 600000);
