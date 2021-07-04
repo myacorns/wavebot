@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Phoenix1128/Nookbot.git"
+    "url": "git+https://github.com/myacorns/waveboat.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Phoenix1128/Nookbot/issues"
+    "url": "https://github.com/myacorns/waveboat/issues"
   },
-  "homepage": "https://github.com/Phoenix1128/Nookbot#readme",
+  "homepage": "https://github.com/myacorns/waveboat#readme",
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
     "better-sqlite3": "^5.4.3",
