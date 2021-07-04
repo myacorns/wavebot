@@ -34,6 +34,7 @@
     "node.js": "^0.0.1-security",
     "ping": "^0.2.2",
     "ref": "github:node-ffi-napi/ref-napi#latest",
+    "ref-napi": "github:node-ffi-napi/ref-napi#latest",
     "request": "^2.88.0",
     "string-similarity": "^3.0.0",
     "twitter-lite": "^0.9.4",
